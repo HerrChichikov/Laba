@@ -1,0 +1,34 @@
+10
+
+dir
+90
+http://xn--e1afhkfagivn.xn--p1ai/svn/project24/trunk/Laba-test/src/test
+http://xn--e1afhkfagivn.xn--p1ai/svn/project24
+
+
+
+2021-12-23T09:32:40.941424Z
+76
+user124
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8f5807a0-3d70-4c6d-b497-5400bfae71f2
+
+java
+dir
+
+resources
+dir
+
